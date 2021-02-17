@@ -1,0 +1,11 @@
+Firstly, go to https://www.selenium.dev/downloads/ and download selenium 
+OR
+Type pip3 install selenium in your terminal
+
+Next, install a webdriver, this code is for Chrome. 
+You will most likely need to check your Chrome version, you can type "chrome://about"
+in your browser and it will tell you the version you're using.
+
+Then go to https://chromedriver.chromium.org/downloads and install the suitable webdriver.
+
+And that's it! You're good to go.
