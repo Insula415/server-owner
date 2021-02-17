@@ -1,7 +1,7 @@
 # Server-owner
 Find the owner of a Discord server
 
-<img src="example.png"/>
+<img src="example.PNG"/>
 
 Installation:
 
